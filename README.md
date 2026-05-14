@@ -28,22 +28,6 @@ Hi there. I like anime, mahjong, and building small useful tools with a personal
 
 <br clear="right">
 
-<h2 align="center">✦ 𝓐𝓷𝓲𝓶𝓮 𝓖𝓪𝓵𝓵𝓮𝓻𝔂 ✦</h2>
-
-<p align="center"><i>a few frames from worlds I love</i></p>
-
-<p align="center">
-  <img src="https://media.tenor.com/4ryx66tWEhcAAAAC/anime.gif" width="31%" alt="Anime gallery GIF 1"/>
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="31%" alt="Anime gallery GIF 2"/>
-  <img src="https://media.tenor.com/azZCJ2YpsGgAAAAC/anime-cute.gif" width="31%" alt="Anime gallery GIF 3"/>
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/6JptszQgCnkAAAAC/text-work.gif" width="31%" alt="Anime gallery GIF 4"/>
-  <img src="https://media.tenor.com/k_FD58xnsicAAAAC/anime-sleep.gif" width="31%" alt="Anime gallery GIF 5"/>
-  <img src="https://media.tenor.com/4ryx66tWEhcAAAAC/anime.gif" width="31%" alt="Anime gallery GIF 6"/>
-</p>
-
 <h2 align="center">✦ 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓟𝓻𝓸𝓳𝓮𝓬𝓽 ✦</h2>
 
 <table>
