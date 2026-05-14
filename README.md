@@ -6,8 +6,6 @@
 
 <img src="https://giffiles.alphacoders.com/349/34970.gif" alt="Anime banner GIF" width="72%"/>
 
-<p><i>I sleep while AI does code.</i></p>
-
 ✦ · ❀ · ✦ · ❀ · ✦ · ❀ · ✦
 
 </div>
