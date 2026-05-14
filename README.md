@@ -18,13 +18,14 @@
 
 ```text
 name      Taiyakichan
+lifestyle vibe coder
 loves     anime · riichi · soft UI
 building  Riichi Academy
 stack     Python · frontend tools
 vibe      cozy dev page
 ```
 
-Hi there. I like anime, mahjong, and building small useful tools with a personal touch. If something is here, it was made with care.
+Hi there. I'm a vibe coder who likes anime, mahjong, and building small useful tools with a personal touch. If something is here, it was made with care.
 
 <br clear="right">
 
