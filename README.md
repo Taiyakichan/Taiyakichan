@@ -14,7 +14,7 @@
 
 <h2 align="center">✦ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ✦</h2>
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="220" alt="Anime coding GIF"/>
+<img src="https://i.pinimg.com/originals/0b/8c/57/0b8c573239f032bb3156d35b0d5865d2.gif" align="right" width="220" alt="About me anime GIF"/>
 
 ```text
 name      Taiyakichan
