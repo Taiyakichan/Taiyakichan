@@ -4,6 +4,8 @@
 
 <img src="./assets/anime-console.svg" alt="Anime-style developer console banner" width="92%"/>
 
+<img src="./assets/anime-coder.gif" alt="Animated anime-style coding mascot" width="58%"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2400&pause=700&color=FF69B4&center=true&vCenter=true&width=760&lines=Windows+desktop+tool+builder;Python+automation+projects;NTE+tooling+and+game+utility+work;Clean+repos%2C+simple+UX%2C+anime+energy;Currently+building+Chiz+Fishing+Tools)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Taiyakichan&label=Profile%20views&color=ff69b4&style=for-the-badge)](https://github.com/Taiyakichan)
