@@ -2,7 +2,7 @@
 
 # Taiyakichan
 
-<img src="./assets/anime-desk.gif" alt="Animated anime-style desk scene" width="72%"/>
+<img src="https://giffiles.alphacoders.com/349/34970.gif" alt="Anime profile GIF" width="72%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&size=22&duration=2600&pause=900&color=D66B9A&center=true&vCenter=true&width=620&lines=Windows+tools+and+automation;Python+desktop+projects;Currently+building+Chiz+Fishing+Tools;Soft+UI%2C+clean+repos%2C+useful+little+apps)](https://git.io/typing-svg)
 
