@@ -33,7 +33,7 @@ Hi there. I like anime, mahjong, and building small useful tools with a personal
 <table>
   <tr>
     <td width="34%" align="center">
-      <img src="https://giffiles.alphacoders.com/349/34970.gif" width="100%" alt="Riichi Academy anime GIF"/>
+      <img src="https://i.ppy.sh/fe6abdb74dc6824c86a81ea2e6a28db6dfbb6c32/687474703a2f2f63646e2e6169786966616e2e636f6d2f646f746e65742f617274656d69732f752f636d732f7777772f3230313531322f30373138343330377779637075676b6e2e6a7067" width="100%" alt="Riichi Academy image"/>
     </td>
     <td>
       <h3>Riichi Academy</h3>
@@ -79,7 +79,7 @@ Hi there. I like anime, mahjong, and building small useful tools with a personal
 
 <h2>✿ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓿𝓲𝓼𝓲𝓽𝓲𝓷𝓰 ✿</h2>
 
-<img src="https://media.tenor.com/azZCJ2YpsGgAAAAC/anime-cute.gif" width="42%" alt="Anime closing GIF"/>
+<img src="https://media.tenor.com/2ZuUWp5LDfIAAAAM/konata-lucky-star.gif" width="42%" alt="Konata closing GIF"/>
 
 <p><i>If you liked something here, thanks for passing by my little corner.</i></p>
 
